@@ -13,6 +13,7 @@ This project uses a third party font family Braille1. Its readme.txt and lisezmo
 ## Usage
 
 Convert stdin input to Braille PDF (press 2 times <Return> to finish)
+
 ```
 python3 main.py output.pdf
 ```
@@ -21,6 +22,7 @@ or
 
 
 Convert a plain text file do Braille PDF.
+
 ```
 python3 main.py input.txt output.pdf
 ```
